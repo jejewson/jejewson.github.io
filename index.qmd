@@ -1,10 +1,11 @@
 ---
 title: "Dr. Jack Jewson"
+subtitle: jack.jewson@monash.edu
 about:
   template: solana
   image: JackJewsonAcademic_cropped_resized.jpg
-  image-width: 300px
-  image-shape: rectangle
+  image-width: 200px
+  image-shape: round
   links:
     - icon: google
       text: Google Scholar
@@ -51,7 +52,7 @@ I am particularly interested in [general Bayesian updating](https://rss.onlineli
 
 - [**Variational predictive resampling**](https://arxiv.org/abs/2605.11168): Battaglia L., Cortinovis S., Holmes C., Frazier D.T., Jewson J., 2026. *arXiv preprint arXiv:2605.11168.*
 
-- [**Quasi-Bayesian Variable Selection: Model Selection without a Model**](https://arxiv.org/abs/2601.12767): Hadj-Amar, B. and Jewson, J., 2026. *arXiv preprint arXiv:2601.12767.*
+- [**Bayesian Variable Selection with the Quasi-Posterior**](https://arxiv.org/abs/2601.12767): Hadj-Amar, B. and Jewson, J., 2026. *arXiv preprint arXiv:2601.12767.*
 
 - [**Bayesian computation for high-dimensional Gaussian Graphical Models with spike-and-slab priors**](https://arxiv.org/abs/2511.01875): Sulem, D., Jewson, J., and Rossell, D., 2025. *arXiv preprint arXiv:2511.01875.* (A [link](https://www.youtube.com/watch?v=1mFQ1nrYmro) to Deborah's WiNS Seminar Feb 2025.)
 
@@ -96,3 +97,4 @@ I am particularly interested in [general Bayesian updating](https://rss.onlineli
 - My PhD thesis titled *"Bayesian Inference in the M-open world"* is available [here](http://wrap.warwick.ac.uk/147853/1/WRAP_Theses_Jewson_2019.pdf).
 
 - My MMorse Master's Thesis examining the Duckworth-Lewis method in the context of English county cricket is [here](https://drive.google.com/file/d/1wEMv0fk7VP3p_FA_AgG6fr95nwToQrgm/view?usp=sharing).
+
