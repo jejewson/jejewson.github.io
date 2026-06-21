@@ -1,0 +1,96 @@
+---
+title: "Dr. Jack Jewson"
+about:
+  template: solana
+  image: JackJewsonAcademic_cropped_resized.jpg
+  image-width: 300px
+  image-shape: rectangle
+  links:
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=XBlL5AQAAAAJ&hl=en
+    - icon: github
+      text: Github
+      href: https://github.com/jejewson
+---
+
+<!---
+
+https://quarto.org/docs/websites/website-about.html
+
+--->
+
+## Current Position
+
+I am currently a Senior Lecturer in the Department of Econometrics and Business Statistics at Monash University in Australia.
+
+## Previous Positions
+
+- **Mar 2022 – February 2024:** Juan de la Cierva Research Fellow, Department of Economics and Business, Universitat Pompeu Fabra (UPF), working with Dr. David Rossell.
+
+- **Sept 2019 – Mar 2022:** Postdoctoral Research Assistant, Barcelona School of Economics (BSE), Universitat Pompeu Fabra (UPF), working with Dr. David Rossell and Dr. Piotr Zweirnik.
+
+## Education
+
+I obtained my PhD titled *"Bayesian Inference in the M-open world"* from the University of Warwick (in collaboration with the University of Oxford) as part of the Oxford-Warwick Statistics Programme ([OxWaSP](http://www.oxwasp-cdt.ac.uk/)) under the supervision of Prof. Jim Q. Smith (Warwick) and Prof. Chris Holmes (Oxford) (Submitted Sept 2019, Awarded June 2020).
+
+## Research Interests
+
+My research interests surround the methodological and philosophical challenges encountered when conducting Bayesian analyses for modern, high dimensional inference problems. In such scenarios a 'full' Bayesian analysis is inevitably impossible and one must resort to approximations, either at a modelling or a computational level.
+
+I am particularly interested in [general Bayesian updating](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12158) and the use of loss functions to make principled Bayesian inference and improved decision making.
+
+**Other interests:**
+
+- Model misspecification, robust statistics and the M-open world
+- Divergences, loss functions and scoring rules
+- Variable selection and graphical modelling
+- Differential privacy
+
+## ArXiv Preprints
+
+- [**Quasi-Bayesian Variable Selection: Model Selection without a Model**](https://arxiv.org/abs/2601.12767): Hadj-Amar, B. and Jewson, J., 2026. *arXiv preprint arXiv:2601.12767.*
+
+- [**Bayesian computation for high-dimensional Gaussian Graphical Models with spike-and-slab priors**](https://arxiv.org/abs/2511.01875): Sulem, D., Jewson, J., and Rossell, D., 2025. *arXiv preprint arXiv:2511.01875.* (A [link](https://www.youtube.com/watch?v=1mFQ1nrYmro) to Deborah's WiNS Seminar Feb 2025.)
+
+- [**Exact Sampling of Gibbs Measures with Estimated Losses**](https://arxiv.org/abs/2404.15649): Frazier, D.T., Knoblauch, J., Jewson, J., and Drovandi, C., 2025. *arXiv preprint arXiv:2404.15649.*
+
+- [**Probabilistic Programming with Sufficient Statistics for faster Bayesian Computation**](https://arxiv.org/abs/2502.04990): Pichler, C., Jewson, J. and Avalos-Pacheco, A., 2025. *arXiv preprint arXiv:2502.04990.*
+
+## Publications
+
+- [**On the Stability of General Bayesian Inference**](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/On-the-Stability-of-General-Bayesian-Inference/10.1214/24-BA1502.full): Jewson, J., Smith, J. Q., Holmes, C. *Bayesian Analysis*, 1 (1), 1–31. 2024.
+
+- [**Graphical model inference with external network data**](https://academic.oup.com/biometrics/article/80/4/ujae151/7925443): Jewson, J., Li, L., Battaglia, L., Hansen, S., Rossell, D., Zwiernik, P. *Biometrics*, 80 (4), ujae151. 2024.
+
+- [**Bayesian Sparse Vector Autoregressive Switching Models with Application to Human Gesture Phase Segmentation**](https://arxiv.org/abs/2302.05347): Hadj-Amar, B., Jewson, J., Vannucci, M. *Annals of Applied Statistics*, 18.3, 2511–2531. 2024.
+
+- [**Differentially Private Statistical Inference through β-Divergence One Posterior Sampling**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f3024ea88cec9f45a411cf4d51ab649c-Abstract-Conference.html): Jewson, J., Ghalebikesabi, S., Holmes, C. *Advances in Neural Information Processing Systems (NeurIPS)*. 2023.
+
+- [**Bayesian Approximations to Hidden Semi-Markov Models for Telemetric Monitoring of Physical Activity**](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Approximations-to-Hidden-Semi-Markov-Models-for-Telemetric-Monitoring/10.1214/22-BA1318.full): Hadj-Amar, B., Jewson, J., Fiecas, M. *Bayesian Analysis*, 18 (2), 547–577. 2023.
+
+- [**General Bayesian Loss Function Selection and the use of Improper Models**](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12553): Jewson, J., Rossell, D. *Journal of the Royal Statistical Society: Series B*, 84 (5), 1640–1665. 2022.
+
+- [**An Optimization-centric View on Bayes' Rule: Reviewing and Generalizing Variational Inference**](https://jmlr.org/papers/v23/19-1047.html): Knoblauch, J., Jewson, J., Damoulas, T. *Journal of Machine Learning Research*, 23 (132), 1–109. 2022.
+
+- [**Mitigating statistical bias within differentially private synthetic data**](https://proceedings.mlr.press/v180/ghalebikesabi22a): Ghalebikesabi, S., Wilde, H., Jewson, J., Doucet, A., Vollmer, S., Holmes, C. In *The 38th Conference on Uncertainty in Artificial Intelligence (UAI 2022)*.
+
+- [**Foundation of Bayesian Learning from Synthetic Data**](http://proceedings.mlr.press/v130/wilde21a): Wilde, H., Jewson, J., Vollmer, S., Holmes, C. In *International Conference on Artificial Intelligence and Statistics (AISTATS 2021)*, pp. 541–549. PMLR.
+
+- [**Doubly Robust Bayesian Inference for Non-Stationary Streaming Data with β-Divergences**](https://papers.nips.cc/paper/7292-doubly-robust-bayesian-inference-for-non-stationary-streaming-data-with-beta-divergences): Knoblauch, J., Jewson, J., Damoulas, T. *Advances in Neural Information Processing Systems (NeurIPS)*. 2018. ([poster](https://drive.google.com/file/d/1rgm6J20c1-iroBqrQ_fHDhE1aBkLAJ0s/view?usp=sharing)) ([video](https://www.youtube.com/watch?v=V_UeSXPFRbo))
+
+- [**Principles of Bayesian Inference Using General Divergence Criteria**](http://www.mdpi.com/1099-4300/20/6/442): Jewson, J., Smith, J.Q., Holmes, C. *Entropy*, 20, 442. 2018.
+
+- [**A comment on the Duckworth–Lewis–Stern method**](https://link.springer.com/article/10.1057/s41274-017-0281-9): Comments on "The Duckworth-Lewis-Stern method: extending the Duckworth-Lewis methodology to deal with modern scoring rates" by S.E. Stern, appearing as a viewpoint in *JORS* (2017). S.E. Stern's response can be found [here](https://link.springer.com/article/10.1057/s41274-017-0282-8).
+
+## Discussions
+
+- **Learning Summary Statistic Hyperparameters:** Discussion (p60) on the Read Paper "[Bayesian Restricted Likelihood Methods: Conditioning on Insufficient Statistics in Bayesian Regression](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Restricted-Likelihood-Methods--Conditioning-on-Insufficient-Statistics-in/10.1214/21-BA1257.full?tab=ArticleLink)" by J. Lewis, S. MacEachern, and Y. Lee, appearing in *Bayesian Analysis* (2021).
+
+- [**Subjective Bayesian Updating**](https://arxiv.org/abs/1705.03727): My discussion on the Read Paper "[Beyond subjective and objective in statistics](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12276)" by A. Gelman and C. Hennig; a condensed version appears in *JRSSA* (2017).
+
+## Other
+
+- My PhD thesis titled *"Bayesian Inference in the M-open world"* is available [here](http://wrap.warwick.ac.uk/147853/1/WRAP_Theses_Jewson_2019.pdf).
+
+- My MMorse Master's Thesis examining the Duckworth-Lewis method in the context of English county cricket is [here](https://drive.google.com/file/d/1wEMv0fk7VP3p_FA_AgG6fr95nwToQrgm/view?usp=sharing).

@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Jack Jewson",
+    "section": "",
+    "text": "I am currently a Senior Lecturer in the Department of Econometrics and Business Statistics at Monash University in Australia."
+  },
+  {
+    "objectID": "index.html#current-position",
+    "href": "index.html#current-position",
+    "title": "Dr. Jack Jewson",
+    "section": "",
+    "text": "I am currently a Senior Lecturer in the Department of Econometrics and Business Statistics at Monash University in Australia."
+  },
+  {
+    "objectID": "index.html#previous-positions",
+    "href": "index.html#previous-positions",
+    "title": "Dr. Jack Jewson",
+    "section": "Previous Positions",
+    "text": "Previous Positions\n\nMar 2022 – February 2024: Juan de la Cierva Research Fellow, Department of Economics and Business, Universitat Pompeu Fabra (UPF), working with Dr. David Rossell.\nSept 2019 – Mar 2022: Postdoctoral Research Assistant, Barcelona School of Economics (BSE), Universitat Pompeu Fabra (UPF), working with Dr. David Rossell and Dr. Piotr Zweirnik."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Dr. Jack Jewson",
+    "section": "Education",
+    "text": "Education\nI obtained my PhD titled “Bayesian Inference in the M-open world” from the University of Warwick (in collaboration with the University of Oxford) as part of the Oxford-Warwick Statistics Programme (OxWaSP) under the supervision of Prof. Jim Q. Smith (Warwick) and Prof. Chris Holmes (Oxford) (Submitted Sept 2019, Awarded June 2020)."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Dr. Jack Jewson",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research interests surround the methodological and philosophical challenges encountered when conducting Bayesian analyses for modern, high dimensional inference problems. In such scenarios a ‘full’ Bayesian analysis is inevitably impossible and one must resort to approximations, either at a modelling or a computational level.\nI am particularly interested in general Bayesian updating and the use of loss functions to make principled Bayesian inference and improved decision making.\nOther interests:\n\nModel misspecification, robust statistics and the M-open world\nDivergences, loss functions and scoring rules\nVariable selection and graphical modelling\nDifferential privacy"
+  },
+  {
+    "objectID": "index.html#arxiv-preprints",
+    "href": "index.html#arxiv-preprints",
+    "title": "Dr. Jack Jewson",
+    "section": "ArXiv Preprints",
+    "text": "ArXiv Preprints\n\nQuasi-Bayesian Variable Selection: Model Selection without a Model: Hadj-Amar, B. and Jewson, J., 2026. arXiv preprint arXiv:2601.12767.\nBayesian computation for high-dimensional Gaussian Graphical Models with spike-and-slab priors: Sulem, D., Jewson, J., and Rossell, D., 2025. arXiv preprint arXiv:2511.01875. (A link to Deborah’s WiNS Seminar Feb 2025.)\nExact Sampling of Gibbs Measures with Estimated Losses: Frazier, D.T., Knoblauch, J., Jewson, J., and Drovandi, C., 2025. arXiv preprint arXiv:2404.15649.\nProbabilistic Programming with Sufficient Statistics for faster Bayesian Computation: Pichler, C., Jewson, J. and Avalos-Pacheco, A., 2025. arXiv preprint arXiv:2502.04990."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Dr. Jack Jewson",
+    "section": "Publications",
+    "text": "Publications\n\nOn the Stability of General Bayesian Inference: Jewson, J., Smith, J. Q., Holmes, C. Bayesian Analysis, 1 (1), 1–31. 2024.\nGraphical model inference with external network data: Jewson, J., Li, L., Battaglia, L., Hansen, S., Rossell, D., Zwiernik, P. Biometrics, 80 (4), ujae151. 2024.\nBayesian Sparse Vector Autoregressive Switching Models with Application to Human Gesture Phase Segmentation: Hadj-Amar, B., Jewson, J., Vannucci, M. Annals of Applied Statistics, 18.3, 2511–2531. 2024.\nDifferentially Private Statistical Inference through β-Divergence One Posterior Sampling: Jewson, J., Ghalebikesabi, S., Holmes, C. Advances in Neural Information Processing Systems (NeurIPS). 2023.\nBayesian Approximations to Hidden Semi-Markov Models for Telemetric Monitoring of Physical Activity: Hadj-Amar, B., Jewson, J., Fiecas, M. Bayesian Analysis, 18 (2), 547–577. 2023.\nGeneral Bayesian Loss Function Selection and the use of Improper Models: Jewson, J., Rossell, D. Journal of the Royal Statistical Society: Series B, 84 (5), 1640–1665. 2022.\nAn Optimization-centric View on Bayes’ Rule: Reviewing and Generalizing Variational Inference: Knoblauch, J., Jewson, J., Damoulas, T. Journal of Machine Learning Research, 23 (132), 1–109. 2022.\nMitigating statistical bias within differentially private synthetic data: Ghalebikesabi, S., Wilde, H., Jewson, J., Doucet, A., Vollmer, S., Holmes, C. In The 38th Conference on Uncertainty in Artificial Intelligence (UAI 2022).\nFoundation of Bayesian Learning from Synthetic Data: Wilde, H., Jewson, J., Vollmer, S., Holmes, C. In International Conference on Artificial Intelligence and Statistics (AISTATS 2021), pp. 541–549. PMLR.\nDoubly Robust Bayesian Inference for Non-Stationary Streaming Data with β-Divergences: Knoblauch, J., Jewson, J., Damoulas, T. Advances in Neural Information Processing Systems (NeurIPS). 2018. (poster) (video)\nPrinciples of Bayesian Inference Using General Divergence Criteria: Jewson, J., Smith, J.Q., Holmes, C. Entropy, 20, 442. 2018.\nA comment on the Duckworth–Lewis–Stern method: Comments on “The Duckworth-Lewis-Stern method: extending the Duckworth-Lewis methodology to deal with modern scoring rates” by S.E. Stern, appearing as a viewpoint in JORS (2017). S.E. Stern’s response can be found here."
+  },
+  {
+    "objectID": "index.html#discussions",
+    "href": "index.html#discussions",
+    "title": "Dr. Jack Jewson",
+    "section": "Discussions",
+    "text": "Discussions\n\nLearning Summary Statistic Hyperparameters: Discussion (p60) on the Read Paper “Bayesian Restricted Likelihood Methods: Conditioning on Insufficient Statistics in Bayesian Regression” by J. Lewis, S. MacEachern, and Y. Lee, appearing in Bayesian Analysis (2021).\nSubjective Bayesian Updating: My discussion on the Read Paper “Beyond subjective and objective in statistics” by A. Gelman and C. Hennig; a condensed version appears in JRSSA (2017)."
+  },
+  {
+    "objectID": "index.html#other",
+    "href": "index.html#other",
+    "title": "Dr. Jack Jewson",
+    "section": "Other",
+    "text": "Other\n\nMy PhD thesis titled “Bayesian Inference in the M-open world” is available here.\nMy MMorse Master’s Thesis examining the Duckworth-Lewis method in the context of English county cricket is here."
+  }
+]
