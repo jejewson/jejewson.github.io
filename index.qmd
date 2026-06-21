@@ -49,6 +49,8 @@ I am particularly interested in [general Bayesian updating](https://rss.onlineli
 
 ## ArXiv Preprints
 
+- [**Variational predictive resampling**](https://arxiv.org/abs/2605.11168): Battaglia L., Cortinovis S., Holmes C., Frazier D.T., Jewson J., 2026. *arXiv preprint arXiv:2605.11168.*
+
 - [**Quasi-Bayesian Variable Selection: Model Selection without a Model**](https://arxiv.org/abs/2601.12767): Hadj-Amar, B. and Jewson, J., 2026. *arXiv preprint arXiv:2601.12767.*
 
 - [**Bayesian computation for high-dimensional Gaussian Graphical Models with spike-and-slab priors**](https://arxiv.org/abs/2511.01875): Sulem, D., Jewson, J., and Rossell, D., 2025. *arXiv preprint arXiv:2511.01875.* (A [link](https://www.youtube.com/watch?v=1mFQ1nrYmro) to Deborah's WiNS Seminar Feb 2025.)
