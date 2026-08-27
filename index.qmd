@@ -62,7 +62,9 @@ I am particularly interested in [general Bayesian updating](https://rss.onlineli
 
 ## Publications
 
-- [**On the Stability of General Bayesian Inference**](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/On-the-Stability-of-General-Bayesian-Inference/10.1214/24-BA1502.full): Jewson, J., Smith, J. Q., Holmes, C. *Bayesian Analysis*, 1 (1), 1–31. 2024.
+- [**Bayesian Inference Under Model Misspecification**](https://onlinelibrary.wiley.com/doi/10.1002/9781118445112.stat08674): Jewson, J.. In *Wiley StatsRef: Statistics Reference Online* (eds N. Balakrishnan, T. Colton, B. Everitt, W. Piegorsch, F. Ruggeri and J.L. Teugels). 2026.
+
+- [**On the Stability of General Bayesian Inference**](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/On-the-Stability-of-General-Bayesian-Inference/10.1214/24-BA1502.full): Jewson, J., Smith, J. Q., Holmes, C. *Bayesian Analysis*, 21 (2), 725-755. 2026.
 
 - [**Graphical model inference with external network data**](https://academic.oup.com/biometrics/article/80/4/ujae151/7925443): Jewson, J., Li, L., Battaglia, L., Hansen, S., Rossell, D., Zwiernik, P. *Biometrics*, 80 (4), ujae151. 2024.
 
