@@ -50,6 +50,8 @@ I am particularly interested in [general Bayesian updating](https://rss.onlineli
 
 ## ArXiv Preprints
 
+- [**Fair Variable Selection**](https://arxiv.org/abs/2609.39485): Sulem, D. and Jewson J., 2026. *arXiv preprint arXiv:2609.39485.*
+
 - [**Variational predictive resampling**](https://arxiv.org/abs/2605.11168): Battaglia L., Cortinovis S., Holmes C., Frazier D.T., Jewson J., 2026. *arXiv preprint arXiv:2605.11168.*
 
 - [**Bayesian Variable Selection with the Quasi-Posterior**](https://arxiv.org/abs/2601.12767): Hadj-Amar, B. and Jewson, J., 2026. *arXiv preprint arXiv:2601.12767.*
@@ -62,7 +64,7 @@ I am particularly interested in [general Bayesian updating](https://rss.onlineli
 
 ## Publications
 
-- [**Bayesian Inference Under Model Misspecification**](https://onlinelibrary.wiley.com/doi/10.1002/9781118445112.stat08674): Jewson, J.. In *Wiley StatsRef: Statistics Reference Online* (eds N. Balakrishnan, T. Colton, B. Everitt, W. Piegorsch, F. Ruggeri and J.L. Teugels). 2026.
+- [**Bayesian Inference Under Model Misspecification**](https://onlinelibrary.wiley.com/doi/10.1002/9781118445112.stat08674): Jewson, J.. In *Wiley StatsRef: Statistics Reference Online* (eds N. Balakrishnan, T. Colton, B. Everitt, W. Piegorsch, F. Ruggeri and J.L. Teugels). 2026. [*arxiv version*](https://arxiv.org/abs/2610.11173)
 
 - [**On the Stability of General Bayesian Inference**](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/On-the-Stability-of-General-Bayesian-Inference/10.1214/24-BA1502.full): Jewson, J., Smith, J. Q., Holmes, C. *Bayesian Analysis*, 21 (2), 725-755. 2026.
 
